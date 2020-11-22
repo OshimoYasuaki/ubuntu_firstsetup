@@ -1,3 +1,2 @@
-# ubuntu_firstsetup.bash
-
-cp 88-cloud-init.yaml /etc/netplan/88-cloud-init.yaml
+sudo dhclinent eth0
+export LANG=en_US
